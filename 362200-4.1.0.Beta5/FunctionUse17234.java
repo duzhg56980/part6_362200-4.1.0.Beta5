@@ -1,0 +1,6 @@
+import io.netty.util.collection.ByteObjectHashMap;
+public class FunctionUse17234 {
+public void funcUse() {
+ByteObjectHashMap byteobjecthashmap = new ByteObjectHashMap();
+}
+}

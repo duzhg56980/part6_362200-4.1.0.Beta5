@@ -1,0 +1,6 @@
+import io.netty.channel.ChannelHandlerAppender;
+public class FunctionUse2508 {
+public void funcUse() {
+ChannelHandlerAppender channelhandlerappender = new ChannelHandlerAppender();
+}
+}
